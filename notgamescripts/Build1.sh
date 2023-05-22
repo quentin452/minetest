@@ -1,0 +1,1 @@
+cmake . -DRUN_IN_PLACE=TRUE
