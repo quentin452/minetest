@@ -1,0 +1,12 @@
+minetest.register_on_newplayer(function(player)
+	print("[minimal] giving initial stuff to player")
+	player:get_inventory():add_item('main','toolx:baseball_bat')
+	player:get_inventory():add_item('main','foodx:canned_tomato 8')
+	player:get_inventory():add_item('main','itemx:walkietalkie')
+	player:get_inventory():add_item('main','zarmor:hat_head')
+	player:get_inventory():add_item('main','zarmor:Jacket_torso')
+	player:get_inventory():add_item('main','zarmor:jeanspants_legs')
+	player:get_inventory():add_item('main','zarmor:tennis_feet')
+	player:get_inventory():add_item('main','itemx:bandaid')
+	
+end)

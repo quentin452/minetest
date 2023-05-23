@@ -1,0 +1,84 @@
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-- Don't change this bit
+return {
+-- You can edit below this
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+-- This is the general purpose config file for ocular_networks.
+
+-- LIVE SETTINGS (These can be changed at any time)
+	-- the max OCP a player's network can contain. this can prevent the hud from printing errors. default 10000
+	max_personal_network_power = 1000000, 
+
+	-- nodes that the laser drill cannot dig.
+	laserDrill_blacklist = { 
+		["default:water_source"] = true,
+		["default:water_flowing"] = true,
+		["default:river_water_source"] = true,
+		["default:river_water_flowing"] = true,
+		["default:lava_source"] = true,
+		["default:lava_flowing"] = true,
+		["ocular_networks:luminium_source"] = true,
+		["ocular_networks:luminium_flowing"] = true,
+		["ocular_networks:lumigold_source"] = true,
+		["ocular_networks:lumigold_flowing"] = true,
+		["ocular_networks:gold_source"] = true,
+		["ocular_networks:gold_flowing"] = true,
+		["ocular_networks:steel_source"] = true,
+		["ocular_networks:steel_flowing"] = true,
+		["ocular_networks:copper_source"] = true,
+		["ocular_networks:copper_flowing"] = true,
+		["ocular_networks:bronze_source"] = true,
+		["ocular_networks:bronze_flowing"] = true,
+		["ocular_networks:tin_source"] = true,
+		["ocular_networks:tin_flowing"] = true,
+		["ocular_networks:angmallen_source"] = true,
+		["ocular_networks:angmallen_flowing"] = true,
+		["ocular_networks:hekatonium_source"] = true,
+		["ocular_networks:hekatonium_flowing"] = true
+	},
+
+	-- a list of all the players who can bypass the ocular_networks protection system.
+	moderator_whitelist = {["singleplayer"] = true},
+
+-- RUNTIME SETTINGS (Will only take effect if changed before loading)
+
+	-- Whether to load compatibility for mods such as technic and farming.
+	load_compat = true,
+
+	-- Whether or not to load the armor.
+	load_armor = true,
+
+	-- Whether or not to load the upgrade pendant and upgrade items for the angmallen armor.
+	load_armor_upgrades = true,
+
+	 -- Whether or not to load the flight ring.
+	load_flight_ring = true,
+
+	-- Whether or not to load the blaze rifle weapons.
+	load_rifle_weapons = true, 
+
+	 -- Whether or not to load the probe logic unit. (requires mesecons)
+	load_probe_toolkit = true,
+	
+	 -- Whether or not to load the guidebook unit.
+	load_guide = true,
+
+	-- Whether to load the chunkloader module.
+	load_forceloader = true, 
+	
+	-- Whether to load the decoration module.
+	load_decor = true, 
+	
+	-- Maximum stack size for ocular_networks items.
+	stack_max = 100,
+	
+-- TWEAKING (Will only take effect if changed before loading)
+	
+	-- how many hp the healer returns
+	healer_quality=3, 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-- Don't change this bit
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------

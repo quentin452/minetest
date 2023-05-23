@@ -1,0 +1,3 @@
+# The duration the pod waits for areas to load in seconds, if it encounters an unloaded area.
+turtloop_wait_duration (Waiting Time) int 2
+

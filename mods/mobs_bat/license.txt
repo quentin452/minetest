@@ -1,0 +1,11 @@
+--------------------------
+--------------------------
+--     ANÝMAL BAT       --
+--------------------------
+--------------------------
+--
+-- Model and textures from Defense Subgame
+-- License of code is MIT
+-- License of media (models, textures ) (CC BY-SA 3.0)
+-- Sounds from bigsoundbank and WTFPL ( confirmed by email )
+--

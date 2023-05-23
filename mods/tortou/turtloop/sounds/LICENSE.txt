@@ -1,0 +1,60 @@
+# License of sounds ------------------------------------------------------------
+
+The sounds are extracted from the Defaults mod of MTG with the following attributions.
+
+Attribution 3.0 Unported (CC BY 3.0)
+    http://creativecommons.org/licenses/by/3.0/
+Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
+    http://creativecommons.org/licenses/by-sa/3.0/
+
+licensor: Mito551
+sounds:  
+  * turtloop_glass_footstep.ogg, turtloop_place_node_hard.1.ogg, turtloop_place_node_hard.2.ogg
+    * license: CC BY-SA 3.0
+
+licensor: cmusounddesign
+profile: https://freesound.org/people/cmusounddesign/
+sounds:  
+  * turtloop_break_glass.1.ogg
+    * license: CC BY 3.0
+
+licensor: Tomlija
+profile: https://freesound.org/people/Tomlija/
+sounds: 
+  * turtloop_break_glass.2.ogg
+    * license: CC BY 3.0
+
+licensor: lsprice
+profile: https://freesound.org/people/lsprice/
+sounds:  
+  * turtloop_break_glass.3.ogg
+    * license: CC BY 3.0
+
+# Attribution 3.0 Unported (CC BY 3.0) -----------------------------------------
+This is a human-readable summary of (and not a substitute for) the license. 
+
+You are free to:
+Share — copy and redistribute the material in any medium or format
+Adapt — remix, transform, and build upon the material for any purpose, even commercially.
+This license is acceptable for Free Cultural Works.
+The licensor cannot revoke these freedoms as long as you follow the license terms.
+
+Under the following terms:
+Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+# Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) ---------------------------
+This is a human-readable summary of (and not a substitute for) the license. 
+
+You are free to:
+Share — copy and redistribute the material in any medium or format
+Adapt — remix, transform, and build upon the material
+for any purpose, even commercially.
+This license is acceptable for Free Cultural Works.
+The licensor cannot revoke these freedoms as long as you follow the license terms.
+
+Under the following terms:
+Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+

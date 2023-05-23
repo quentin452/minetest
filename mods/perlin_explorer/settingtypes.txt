@@ -1,0 +1,18 @@
+# The default noise parameters that this mod will start with.
+perlin_explorer_default_noiseparams (Default noise parameters) noise_params_3d 0, 1, (10, 10, 10), 0, 2, 0.5, 2.0, defaults
+
+# Number of available colors to use per node color palette,
+# ignoring the special “extreme” colors (which are always used).
+# High values lead to a smoother color gradient but also might
+# cause performance issues when viewing many nodes.
+# Note you need to regenerate the nodes for this change to
+# take effect.
+perlin_explorer_color_count (Palette color count) enum 64 256,128,64,32,16,8,4,2,1
+
+# If enabled, will use the grayscale color palette for the nodes.
+# If disabled, will use the default colors instead.
+perlin_explorer_grayscale (Use grayscale color palette) bool false
+
+# If enabled, whenever a chunk of nodes is being generated, a star
+# will briefly appear in the center.
+perlin_explorer_mapgen_star (Show star when generating nodes) bool true

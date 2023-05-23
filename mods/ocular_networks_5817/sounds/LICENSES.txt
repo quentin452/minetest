@@ -1,0 +1,35 @@
+OCN_melter_hum.ogg
+glueIsobar - CC0 - EDITED
+
+OCN_fuser_hum.ogg
+xixishi - CC0 - EDITED
+
+OCN_alloyer_hum.ogg
+Timbre - CC-BY-NC - EDITED
+
+OCN_generic_zap.ogg
+JoelAudio - CC0 - CONVERTED
+
+OCN_generic_creak.ogg
+YourFriendJesse - CC-BY - EDITED
+
+OCN_steam_puff.ogg
+sniperous - CC0 - EDITED
+
+OCN_shot_1.1.ogg, OCN_shot_1.2.ogg, OCN_shot_1.3.ogg
+HuvaaKoodia - CC0 - EDITED
+
+OCN_shot_2.ogg
+DayCraftMC - CC0 - EDITED
+
+OCN_generic_crunch.ogg
+domiscz - CC0 - EDITED
+
+OCN_generic_shake.ogg
+SamsterBirdies - CC0 - CONVERTED
+
+OCN_piston.ogg
+SamsterBirdies - CC0 - EDITED
+
+OCN_forge_clang.ogg
+Timbre - CC-BY-NC - EDITED

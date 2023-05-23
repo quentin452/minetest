@@ -1,0 +1,101 @@
+# textdomain: witches
+
+### init.lua ###
+This is Witches verison @1!=
+Mobs Redo @1 or greater found! (=
+You should find a more recent version of Mobs Redo!=
+https://notabug.org/TenPlus1/mobs_redo=
+This mod requires Mobs Redo version @1 or greater!=
+Witch cottages will be generated=
+Witch cottages will NOT be generated=
+@1  Egg=
+
+### nodes.lua ###
+doors active=
+Wooden Door=
+bed mod not found! Bed not registered!=
+bucket mod not found! Bucket not registered!=
+vessels mod not found! Shelf and glass bottle not registered!=
+tree roots=
+
+### sheep.lua ###
+Black=
+Blue=
+Brown=
+Cyan=
+Dark Green=
+Dark Grey=
+Green=
+Grey=
+Magenta=
+Orange=
+Pink=
+Red=
+Violet=
+White=
+Yellow=
+@1 Sheep=
+Raw Mutton=
+Cooked Mutton=
+
+### ui.lua ###
+@1 @2=
+I see you found some @1!@nDo you wish to give me @2 @3?=
+Thank you @1, for finding @2 @3!=
+
+### utilities.lua ###
+#adjectives to describe gift items
+shiny, polished, favorite, beloved, cherished, sharpened, enhanced=
+# witch profession titles
+artificer, librarian, logician, sorcerant, thaumaturgist, polymorphist, elementalist, hedge, herbologist, arcanologist, tutor, historian, mendicant, restorationist=
+# witch greetings
+Hello, @1, I am @2, @3 of @4! =
+Just one minute, @1! @2, @3 of @4 seeks your assistance! =
+If you are indeed @1, perhaps you and I, @2, @3 of @4 can help each other! =
+Being a long way from @1, can be confusing. I'm known as @2 the @3! =
+You look as though you could be from @1, but I'm sure we have not yet met. I am @2 the @3! =
+Well, @1, I have yet to return to @2. Can you help me? =
+@1, do you have any intention of helping me? =
+There are some matters that still need my attention, @1. =
+I have been so busy in my search for materials, @1. =
+It's just that the @1 is so difficult to procure, @2! =
+Great @1!, Where could that be found, @2?!? =
+Just @1 of the @2 will do! =
+I've been looking all over for @1 of the @2! =
+I seem to have misplaced @1 of the @2! =
+Would you happen to have @1 of the @2? =
+Would you kindly retrieve for me @1 of the @2? =
+Might you please return with @1 of the @2? =
+Do you know I seek only @1 of the @2? =
+Have you but @1 of the @2? =
+Why must my task require @1 of the @2? =
+Is it so difficult to find @1 of the @2? =
+Wherefor about this land art @1 of the @2? =
+Must not there be but @1 of the @2 about? =
+Could I trouble you for @1 of some @2? =
+@1 of the @2 would make my collection complete! =
+I sense that @1 of the @2 are not far away...=
+Certainly @1 of the @2 is not as rare as a blood moon! =
+You look like you know where to find @1 of the @2! =
+# witches gift description (possesive name, adjective, item) 
+@1's @2 @3=
+You are rewarded with @1 @2=
+You are rewarded with @1 @2, but you cannot carry it=
+@1's @2=
+You are rewarded with =
+You are rewarded with @1, but you cannot carry it=
+You receive permission from @1 to access their magic chest located at @2!=
+@1's chest of @2=
+@1's unlocked chest=
+Sealed chest of @1=
+
+
+### witches.lua ###
+Wanderling=
+The Wanderlings roam the land, for what do they seek?=
+Eremitant=
+The Eremitant have found homes for themselves, who would bother them?=
+Eremitant Artifician=
+The Eremitant Artificians scout the land for dungeons upon which their cottages may be built=
+Basic Witch=
+This witch has a story yet to be...=

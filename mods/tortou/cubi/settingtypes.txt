@@ -1,0 +1,8 @@
+# The maximum amount of mobs spawned by the world. This limit can be exceeded using the spawn card.
+cubi_max_mobs (Maximum Amount of Mobs) int 10
+
+# The chance a mob is spawned near a node in percent.
+cubi_spawn_chance (Spawn Chance) int 1
+
+# The minimum time between two spawn events related to a node.
+cubi_spawn_interval (Spawn Interval) int 60

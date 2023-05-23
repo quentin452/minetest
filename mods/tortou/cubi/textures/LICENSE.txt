@@ -1,0 +1,73 @@
+# License of textures ----------------------------------------------------------
+
+Attribution 4.0 International (CC BY 4.0)
+    http://creativecommons.org/licenses/by/4.0/
+CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+    https://creativecommons.org/publicdomain/zero/1.0/
+Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
+    http://creativecommons.org/licenses/by-sa/3.0/
+
+licensor: LibraSubtilis
+profile: https://gitlab.com/LibraSubtilis
+images:  
+  * cubi_turtle_back.png, cubi_turtle_bottom.png, cubi_turtle_card.png, cubi_turtle_front.png,
+    cubi_turtle_side.png, cubi_turtle_top.png, cubi_mock_back.png, cubi_mock_bottom.png,
+    cubi_mock_front.png, cubi_mock_side.png, cubi_die_1.png, cubi_die_2.png, cubi_die_3.png,
+    cubi_die_4.png, cubi_die_5.png, cubi_die_6.png,
+    * license: CC BY 4.0
+
+licensor: GreenXenith
+profile: https://github.com/GreenXenith
+images:  
+  * cubi_tac_back.png, cubi_tac_front.png, cubi_tac_side.png
+    * license: CC0
+
+licensor: VanessaE
+profile: https://gitlab.com/VanessaE
+images:  
+  * cubi_moognu_back.png, cubi_moognu_front.png, cubi_moognu_side.png, cubi_nyancat_back.png,
+    cubi_nyancat_front.png, cubi_nyancat_side.png, cubi_pup_back.png, cubi_pup_front.png,
+    cubi_pup_side.png
+    * license: CC BY-SA 3.0
+
+licensor: RHR
+profile: https://github.com/RHRhino
+  * cubi_cow_back.png, cubi_cow_bot.png, cubi_cow_front.png, cubi_cow_side.png, cubi_pig_back.png,
+    cubi_pig_front.png, cubi_pig_side.png
+    * license: WTFPL
+
+# Attribution 4.0 International (CC BY 4.0) ------------------------------------
+This is a human-readable summary of (and not a substitute for) the license.
+
+You are free to:
+Share — copy and redistribute the material in any medium or format
+Adapt — remix, transform, and build upon the material for any purpose, even commercially.
+This license is acceptable for Free Cultural Works.
+The licensor cannot revoke these freedoms as long as you follow the license terms.
+
+Under the following terms:
+Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+# CC0 1.0 Universal (CC0 1.0) Public Domain Dedication -------------------------
+This is a human-readable summary of the Legal Code (read the full text).
+
+No Copyright
+The person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law.
+You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission. See Other Information below.
+
+# Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) ---------------------------
+This is a human-readable summary of (and not a substitute for) the license. 
+
+You are free to:
+Share — copy and redistribute the material in any medium or format
+Adapt — remix, transform, and build upon the material
+for any purpose, even commercially.
+This license is acceptable for Free Cultural Works.
+The licensor cannot revoke these freedoms as long as you follow the license terms.
+
+Under the following terms:
+Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+

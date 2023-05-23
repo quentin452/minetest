@@ -1,0 +1,2 @@
+# The duration in seconds the turtle waits for areas to load.
+turt_wait_duration (Waiting Time) int 2

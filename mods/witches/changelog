@@ -1,0 +1,33 @@
+    2022/10/22: Translation work
+    2022/10/16:  Cottage chest container items and extra furniture moved to database!
+                  Note: Cottages already generated will not be affected.
+    2022/10/11: Fix init and quests again!
+    2022/10/09B: Fixed special gift frequency and added debug categories
+    2022/10/09: Issue 5: invalid 'random' (interval is empty): check before crash.
+    2022/10/08: moved quest item lists out of code and into database for server customizations
+    2022/10/05: quest ui checks
+    2022/10/04: checks for valid math.random(), less frequent cottage tree and bush growth (abms), ui adjustments 
+    2022/10/02: Quests can now require higher counts of items to complete, more cottage fixing
+    2022/09/30: add a debug check for annoying bug
+    2022/09/04: More cottage code cleanup and re-add witch spawner (sometimes it works!?)
+    2022/09/01: Fix debug crashing on older MT (at least from 5.4)
+    2022/08/28: More Cottage variations and furniture, cleanup of node workarounds, fixes to witch spawning in cottages 
+    2022/08/27: Clean up deprecated vector tables, quest and chest fixes
+    2022/02/23: Fixes and formatting
+    2022/02/22: Restored Cottages spawning over dungeons (!) and some related settings.
+    2022/02/19: Require only default and mobs now, additional checks, cottage generation now optional from game Settings tab > All Settings > Mods > witches
+    2022/02/14: Dialog updates
+    2022/02/13: Debug output can be enabled from game Settings tab > All Settings > Mods > witches 
+    2022/02/12: Witches honor protected nodes ("protector" mod support)
+    2020/08/10: Testing new cottage building code.
+    2020/08/06: Fixed witches not registered when handle_schematics is not loaded! D'oh!
+    2020/08/01: Witches have two new wands from Damon and Simone!
+    2020/07/31: Witches can turn aggressive mobs into sheep! Witches gain drench spell!
+    2020/07/28: Witches will teleport you away from themselves if you are aggressive!
+    2020/07/26: Witch cottage placement refactor and settings menu options!
+    2020/07/25: Witch cottages refinements (thanks Solomine!)
+    2020/07/20: Witches have homes (modified procedural Basic_Houses script by Sokomine)! (If Sokomine's handle_schematics mod is also active) L-System trees are added near witch cottages too!!
+      video: https://youtu.be/qDS3fT-ROR0
+    2020/07/19: Hairstyles are now randomly chosen, animated hat test.
+    Update 2020/07/17: More Quest UI work (reward items try to fit into player inv or drop) and some variations in quest text and hats.
+    video: https://youtu.be/Lor06w5IMIQ
